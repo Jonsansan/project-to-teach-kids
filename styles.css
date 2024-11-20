@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image:url(cool-bart-simpson-in-space-background-qumx4tq10honwfpu.jpg); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+h1 {
+    background-color: rgba(255, 255, 255, 0.516);
+}
+li {
+    background-color: rgba(255, 255, 255, 0.482);
+}
+
+
+
